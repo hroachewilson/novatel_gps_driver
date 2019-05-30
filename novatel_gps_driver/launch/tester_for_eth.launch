@@ -7,7 +7,7 @@
       verbose: true
       connection_type: tcp
       device: 192.168.74.10:2000
-      imu_sample_rate: -1
+      imu_sample_rate: 100
       use_binary_messages: true
       publish_novatel_positions: true
       publish_imu_messages: true
